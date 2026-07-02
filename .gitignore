@@ -1,8 +1,3 @@
 .idea/
-composer.lock
 vendor
-bin
-metadata
-etc/doc-build/vendor
-etc/doc-build/composer.lock
 .phpunit.result.cache
